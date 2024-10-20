@@ -1,11 +1,13 @@
 
 # NLP Models
 
-This Repositary has Following Models related to Natutal Langauage Processing.
 
-Data files are not not uploaded for some Models due to Large size.Please feel free to reach out to me for data file. 
 
-The Indexing in github Corresponds to Indexing in my local system.
+This Repository has the Following Models related to Natutal Langauage Processing.
+
+Data files are not uploaded for some Models due to their large size. Please feel free to reach out to me for the data file. 
+
+The Indexing in GitHub Corresponds to Indexing in my local system.
 
 
 
