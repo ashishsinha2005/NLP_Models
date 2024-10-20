@@ -5,7 +5,7 @@ This Repositary has Following Models related to Natutal Langauage Processing.
 
 Data files are not not uploaded for some Models due to Large size.Please feel free to reach out to me for data file. 
 
-The Indexing in github Correspond to Indexing in my local system.
+The Indexing in github Corresponds to Indexing in my local system.
 
 
 
