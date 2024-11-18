@@ -26,6 +26,9 @@ The Indexing in GitHub Corresponds to Indexing in my local system.
  | 3 | 1.9.2 |spam detection |
 | 4 | 2.16 | NLP Models for sentiment analysis |
 | 5 | 4.11 | seamantic search using python |
+| 6 | 5 | Spotify_review |
+| 7 | 6.1 | Panchatantra_exploratory |
+| 8 | 6.2 | Panchatantra_sentiment_analysis |
 
 
 
