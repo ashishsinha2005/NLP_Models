@@ -29,6 +29,7 @@ The Indexing in GitHub Corresponds to Indexing in my local system.
 | 6 | 5 | Spotify_review |
 | 7 | 6.1 | Panchatantra_exploratory |
 | 8 | 6.2 | Panchatantra_sentiment_analysis |
+| 9 | Models83 | NLP Fundamentals |
 
 
 
