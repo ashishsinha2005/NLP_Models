@@ -39,4 +39,7 @@ news_api = Your Keys
 ## Architecture of your Project Home Directory
 <p><img  alt="GIF" src="https://github.com/ashishsinha2005/NLP_Models/blob/master/158.Text-Summarization-using-NLP-master/presentation/arc.png" width="240" height="410" /></p>
 
+![image alt](https://github.com/ashishsinha2005/Analytics_Models/blob/b973ec058588a91cd05c6d98c14735792545eca5/1.Data-Visualisations-using-Power-BI-master/Customer%20Analysis.png)
+
+
 
