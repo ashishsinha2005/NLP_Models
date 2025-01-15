@@ -23,3 +23,4 @@
 - The sentiment analysis solution led to a 30% improvement in feature enhancement by enabling faster identification of customer needs.
 -  Additionally, it reduced manual review time by 40%, significantly increasing the efficiency of the product improvement cycle.
 
+![image alt](https://github.com/ashishsinha2005/NLP_Models/blob/master/1.9.1.Sentiment%20analysis%20with%20word%20embedding/proj_26.jpg)
