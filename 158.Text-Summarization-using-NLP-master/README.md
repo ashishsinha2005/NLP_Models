@@ -24,7 +24,6 @@ Check out the live demo: https://text--summarization.herokuapp.com/
 
 
 
-Source Code: [github link](https://github.com/everydaycodings/Text-Summarization-using-NLP)
 
 
 ## How to run the project?
