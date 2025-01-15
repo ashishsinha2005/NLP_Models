@@ -16,7 +16,7 @@
 Check out the live demo: https://text--summarization.herokuapp.com/
 
 ### Video demo:
-<p><img  alt="GIF" src="https://github.com/everydaycodings/Text-Summarization-using-NLP/blob/master/presentation/demo.gif" width="800" height="450" /></p>
+<p><img  alt="GIF" src="https://github.com/ashishsinha2005/NLP_Models/blob/master/158.Text-Summarization-using-NLP-master/presentation/demo.gif" width="800" height="450" /></p>
 
 
 
