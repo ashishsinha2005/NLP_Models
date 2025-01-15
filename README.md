@@ -30,6 +30,11 @@ Data files are not uploaded for some Models due to their large size. Please feel
 | 7 | 6.1 | Panchatantra_exploratory |
 | 8 | 6.2 | Panchatantra_sentiment_analysis |
 | 9 | Models83 | Parts of Speech Tagging |
+| 10 | 154 | Genre_Classifier_Text_Classification |
+| 11 | 157 | Topic-Modeling-and-Document-Categorization |
+| 12 | 158 | Text-Summarization-using-NLP-master |
+| 13 | 159 | TrendAnalysis-and-IssueTracking-in-NLP-master |
+| 14 | 160 | NLP_YT_Comments |
 
 
 
