@@ -1,5 +1,4 @@
-## NLP-driven job matching process, leveraging semantic search algorithms
-
+## NLP-sentiment Analysis with Word embedding
 ## Situation:
 
 - The company was struggling to extract detailed insights from customer reviews of SaaS products, resulting in delays in product improvements. 
