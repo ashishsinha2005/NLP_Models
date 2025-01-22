@@ -22,3 +22,4 @@
 ## Result:
 - The framework reduced resolution time by 45%, leading to faster issue resolution. 
 - Customer satisfaction scores increased by 30%, and operational costs were lowered by 25% due to more efficient knowledge base usage.
+![image alt](https://github.com/ashishsinha2005/NLP_Models/blob/master/4.11.seamantic%20search/proj_9.jpg)
