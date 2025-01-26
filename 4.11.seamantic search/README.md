@@ -15,7 +15,7 @@
 
 ## Action:
 
-- Built an AI-driven summarization framework using transformer models like BERT for semantic understanding and abstractive summarization. 
+- Built an AI-driven summarization framework using transformer models like paraphrase-MiniLM-L6-v2  for semantic understanding and abstractive summarization. 
 -  Implemented the system on AWS, utilizing S3 buckets for data storage, Boto3 for service interaction, and SageMaker for model training and deployment.
 
 
