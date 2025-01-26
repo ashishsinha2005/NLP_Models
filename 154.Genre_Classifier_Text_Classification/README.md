@@ -50,10 +50,6 @@ The process for genre classification involves the following steps:
 
 
 
-## Dataset Links
-
-The dataset used in this project can be accessed here:
-- [Dataset 1: Kaggle Text Genre Dataset](<https://www.kaggle.com/datasets/prishasawhney/sentiment-analysis-evaluation-dataset>)
 
 
 
