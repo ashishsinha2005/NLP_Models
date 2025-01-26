@@ -1,7 +1,7 @@
 ## NLP-sentiment Analysis with Word embedding
 ## Situation:
 
-- The company was struggling to extract detailed insights from customer reviews of SaaS products, resulting in delays in product improvements. 
+- The company was struggling to extract detailed insights from customer reviews of products, resulting in delays in product improvements. 
 - The lack of a systematic approach hindered the timely identification of key issues and feature requests.
 
 ## Task:
