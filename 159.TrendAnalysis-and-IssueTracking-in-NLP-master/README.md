@@ -41,10 +41,6 @@ you will you the paramters from the previous run. Otherwise, you will run as nor
 ## Prerequisites
 Refer the requirement.txt for details
 
-## Authors
-* Giang. Nguyen
-* Kalkbrenner Lydia
-* Oberwegner Phillip
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
