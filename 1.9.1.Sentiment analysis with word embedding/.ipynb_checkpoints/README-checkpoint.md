@@ -1,11 +1,8 @@
 ## NLP-sentiment Analysis with Word embedding
-<<<<<<< HEAD
-=======
 
->>>>>>> afd748f (Your commit message)
 ## Situation:
 
-- The company was struggling to extract detailed insights from customer reviews of products, resulting in delays in product improvements. 
+- The company was struggling to extract detailed insights from customer reviews of SaaS products, resulting in delays in product improvements. 
 - The lack of a systematic approach hindered the timely identification of key issues and feature requests.
 
 ## Task:
@@ -16,7 +13,7 @@
 
 ## Action:
 
-- Implemented a sentiment analysis system using Word2Vec embeddings and trained multiple machine learning models, including Logistic Regression, SVM, Decision Tree, Random Forest, Gradient Boosting,XGD,LGBM and XGBoost. 
+- Implemented a sentiment analysis system using Word2Vec embeddings and trained multiple machine learning models, including Logistic Regression, SVM, Decision Tree, Random Forest, Gradient Boosting, and XGBoost. 
 - These models enabled accurate classification of customer feedback and improved question answering based on the extracted data.
 
 
