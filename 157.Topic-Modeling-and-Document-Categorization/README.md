@@ -36,11 +36,7 @@ LDA method requires two major elements:
 Conclusion:
 When we do topic modelling, we have to think about topics as a very high-level concept. A topic will gather information which can be broader in scope but still belonging to a more general theme. From the perspective of topic modelling, this is all just one category. In general, classification models that start with labelled categories support much finer distinctions than topic modelling. This is part of the trade-off between supervised and unsupervised learning. The output of such an unsupervised technique is not as precise as the predictions of a text classifier. A supervised technique will allow predictions which cannot be achieved with an unsupervised approach.
 
-# Dataset
 
-I used two separate datasets to test the model.
-- The first dataset we’ll use is a list of over one million news headlines published over a period of 15 years and can be downloaded from [Kaggle](https://www.kaggle.com/therohk/million-headlines/data). It is also provided as a zip file in this repo.
-- The second dataset is a collection of over 36,000 posts on US Presidential Election dealing with the topic of [What Engaged People on Facebook](https://github.com/milkha/FBElec16). The dataset is composed of Facebook posts published by major news organizations (TV, Radio, Press) in the 10-month period leading to the 2016 presidential election. For this project, I used the posts coming from NPR organization (National Public Radio). The dataset can be found [here](https://github.com/milkha/FBElec16/blob/master/data/npr.csv) and is also available in the repo.
 
 Two separate notebooks are provided in the repo, one for each of the datasets.
 
