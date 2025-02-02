@@ -13,7 +13,7 @@
 
 ## Action:
 
-- Implemented a sentiment analysis system using Word2Vec embeddings and trained multiple machine learning models, including Logistic Regression, SVM, Decision Tree, Random Forest, Gradient Boosting,XGD,LGBM and XGBoost. 
+- Implemented a sentiment analysis system using Word2Vec embeddings and trained Transformer Models Like BERT,ROBERTa,DistilBERT,ALBERT,XLnet and also multiple machine learning models, including Logistic Regression, SVM, Decision Tree, Random Forest, Gradient Boosting,XGD,LGBM and XGBoost. 
 - These models enabled accurate classification of customer feedback and improved question answering based on the extracted data.
 
 
