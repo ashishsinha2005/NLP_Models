@@ -1,8 +1,5 @@
 ## NLP-sentiment Analysis with Word embedding
-<<<<<<< HEAD
-=======
 
->>>>>>> afd748f (Your commit message)
 ## Situation:
 
 - The company was struggling to extract detailed insights from customer reviews of products, resulting in delays in product improvements. 
